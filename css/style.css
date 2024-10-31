@@ -1002,6 +1002,9 @@ span#main {
 .single-brand img {
   display: inline-block;
 }
+.picture_size img {
+height: 460px;
+}
 
 /* 14. contact area
 -------------------------------------------------------------- */
