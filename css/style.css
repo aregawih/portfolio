@@ -689,6 +689,14 @@ span#main {
   right: -25px;
   top: -25px;
 }
+@media (min-width: 760px){
+  .contact-info-content{
+    display: flex !important;
+    justify-content: space-around !important;
+    margin: 0 auto;
+
+  }
+}
 .about-shape2 {
   background: var(--secondary-color);
   width: 91px;
